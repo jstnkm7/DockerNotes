@@ -8,3 +8,8 @@ when install docker, three components are created
 
 docker uses namespaces to isolate wrkspaces
 
+i. namespace isolation technique : PID
+
+ii. docker uses cgroup - control group to restrict hardware resources
+
+
